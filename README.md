@@ -7,8 +7,8 @@
 - [Doctor\_appointment\_reservation\_back\_end](#doctor_appointment_reservation_back_end)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Appointment\_booker\_back\_end ](#-appointment_booker_back_end-)
-  - [Link to the front-end repo](#link-to-the-front-end-repo)
-  - [Link to Api documentation](#link-to-api-documentation)
+        - [Link to the front-end repo](#link-to-the-front-end-repo)
+        - [Link to Api documentation](#link-to-api-documentation)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -29,8 +29,8 @@
 
 **Appointment_booker_back_end** is a backend rails api that provides service to the front-end react app to fetch data for doctors appointments.
 
-## [Link to the front-end repo](https://github.com/0sugo/appointment_booker_frontend.git)
-## [Link to Api documentation](https://doctors-appointment-3nvy.onrender.com/api-docs/index.html)
+##### [Link to the front-end repo](https://github.com/0sugo/appointment_booker_frontend.git)
+##### [Link to Api documentation](https://doctors-appointment-3nvy.onrender.com/api-docs/index.html)
 
 ## 🛠 Built With <a name="built-with"></a>
 
