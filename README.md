@@ -6,8 +6,9 @@
 
 - [Doctor\_appointment\_reservation\_back\_end](#doctor_appointment_reservation_back_end)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Appointment\_booker\_back\_end\] ](#-appointment_booker_back_end-)
+- [📖 Appointment\_booker\_back\_end ](#-appointment_booker_back_end-)
   - [Link to the front-end repo](#link-to-the-front-end-repo)
+  - [Link to Api documentation](#link-to-api-documentation)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -24,11 +25,12 @@
   - [🙏Acknowledgments ](#acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 [Appointment_booker_back_end] <a name="about-project"></a>
+# 📖 Appointment_booker_back_end <a name="about-project"></a>
 
-**[Appointment_booker_back_end]** is a backend rails api that provides service to the front-end react app to fetch data for doctors appointment reservation.
+**Appointment_booker_back_end** is a backend rails api that provides service to the front-end react app to fetch data for doctors appointments.
 
 ## [Link to the front-end repo](https://github.com/0sugo/appointment_booker_frontend.git)
+## [Link to Api documentation](https://doctors-appointment-3nvy.onrender.com/api-docs/index.html)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -41,14 +43,30 @@
   </ul>
 </details>
 
+
+
+<details>
+  <summary>Devise gem for Authentication</summary>
+  <ul>
+    <li><a>https://github.com/nejdetkadir/devise-api</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>RSpec</summary>
+  <ul>
+    <li><a>https://github.com/rspec/rspec-rails</a></li>
+  </ul>
+</details>
+
 ### Key Features <a name="key-features"></a>
 
-- **[Render available doctors]**
-- **[Add doctors]**
-- **[Delete doctors]**
-- **[Reserve an appointment with a specific doctor]**
-- **[View all appointments for a specific user]**
-- **[Delete an appointment with a specific doctor]**
+- **Render available doctors**
+- **Add doctors**
+- **Delete doctors**
+- **Reserve an appointment with a specific doctor**
+- **View all appointments for a specific user**
+- **Delete an appointment with a specific doctor**
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -68,7 +86,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/0sugo/appointment_booker_backend.git
+  git clone https://github.com/oguntayomicheal/appointment_booker_backend.git
   cd appointment_booker_backend
 ```
 
@@ -139,7 +157,7 @@ To run tests, run the following command:
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/0sugo/appointment_booker_backend/issues).
+Feel free to check the [issues page](https://github.com/oguntayomicheal/appointment_booker_backend/issues).
 
 
 ## ⭐ Show your support <a name="support"></a>
@@ -150,7 +168,6 @@ If you like this project please show support by staring :star:️.
 ## 🙏Acknowledgments <a name="acknowledgements"></a>
 
 - We would like to thank Microverse for providing adequate learning material and a safe learning environment.
-- We would like to extend our sincerest gratitude for [Murat Korkmaz](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign) for this beautiful design.
 
 ## 📝 License <a name="license"></a>
 
